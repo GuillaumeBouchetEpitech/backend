@@ -1,0 +1,34 @@
+
+#
+##
+
+    + basic startup
+
+    + basic express app
+        + mvc (mc) pattern
+        + config module
+        + test
+            + mock pattern and simulate failure
+            X joi validation
+        + test 404
+        + test 400
+
+    + batch request
+        + https://postcodes.io/
+
+    + add access logger middleware
+
+    + weather
+        + better config
+        + tests
+
+    + nominatim
+    + winston logger
+
+    + toobusy middleware
+
+    + uml diagrams
+    + documentation
+
+##
+#

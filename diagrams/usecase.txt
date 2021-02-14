@@ -1,0 +1,38 @@
+
+@startuml
+
+left to right direction
+
+actor client
+
+client -- (service)
+
+(service) -- (middleware)
+
+note top of (middleware)
+access logger
+end note
+
+rectangle controllers {
+
+    (postcodes)
+    (weather)
+    (address)
+}
+
+rectangle models {
+
+    (postcodes api)
+    (openweathermap api)
+    (nominatim api)
+}
+
+(middleware) -- (postcodes)
+(middleware) -- (weather)
+(middleware) -- (address)
+
+(postcodes) -- (postcodes api)
+(weather) -- (openweathermap api)
+(address) -- (nominatim api)
+
+@enduml

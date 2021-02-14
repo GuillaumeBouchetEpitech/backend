@@ -1,0 +1,14 @@
+
+{
+    "port": 3000,
+    "postcodesApi": {
+        "url": "http://api.postcodes.io"
+    },
+    "openweathermapApi" : {
+        "url": "http://api.openweathermap.org",
+        "apiKey": "????"
+    },
+    "nominatimApi" : {
+        "url": "https://nominatim.openstreetmap.org"
+    }
+}

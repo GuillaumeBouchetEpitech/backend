@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="234px" preserveAspectRatio="none" style="width:779px;height:234px;" version="1.1" viewBox="0 0 779 234" width="779px" zoomAndPan="magnify"><defs><filter height="300%" id="fggs9scq0pawh" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[f4e70ef68289585296b9045165e58692]
+cluster controllers--><rect fill="#FFFFFF" filter="url(#fggs9scq0pawh)" height="193" style="stroke: #000000; stroke-width: 1.5;" width="127" x="408" y="23"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="86" x="428.5" y="37.9951">controllers</text><!--MD5=[a60570e4b426f702ccbb0d459e3b9417]
+cluster models--><rect fill="#FFFFFF" filter="url(#fggs9scq0pawh)" height="207" style="stroke: #000000; stroke-width: 1.5;" width="189" x="579" y="16"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="57" x="645" y="30.9951">models</text><ellipse cx="471.3259" cy="65.0236" fill="#FEFECE" filter="url(#fggs9scq0pawh)" rx="55.3259" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="74" x="434.3259" y="69.6721">postcodes</text><ellipse cx="471.598" cy="129.0236" fill="#FEFECE" filter="url(#fggs9scq0pawh)" rx="42.598" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="443.598" y="133.6721">weather</text><ellipse cx="471.598" cy="193.0236" fill="#FEFECE" filter="url(#fggs9scq0pawh)" rx="42.598" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="443.598" y="197.6721">address</text><ellipse cx="673.7254" cy="59.2451" fill="#FEFECE" filter="url(#fggs9scq0pawh)" rx="66.7254" ry="15.7451" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="624.7254" y="63.8935">postcodes api</text><ellipse cx="673.5998" cy="129.22" fill="#FEFECE" filter="url(#fggs9scq0pawh)" rx="86.5998" ry="19.72" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="146" x="600.5998" y="133.8684">openweathermap api</text><ellipse cx="673.4597" cy="199.0919" fill="#FEFECE" filter="url(#fggs9scq0pawh)" rx="65.9597" ry="15.5919" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="96" x="625.4597" y="203.7404">nominatim api</text><!--MD5=[4a65e84059005d12693a083370a06717]
+entity client--><ellipse cx="24.5" cy="98" fill="#FEFECE" filter="url(#fggs9scq0pawh)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M24.5,106 L24.5,133 M11.5,114 L37.5,114 M24.5,133 L11.5,148 M24.5,133 L37.5,148 " fill="none" filter="url(#fggs9scq0pawh)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="37" x="6" y="166.4951">client</text><ellipse cx="140.6482" cy="129.0236" fill="#FEFECE" filter="url(#fggs9scq0pawh)" rx="37.6482" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="116.1482" y="133.6721">service</text><ellipse cx="296.8614" cy="129.0236" fill="#FEFECE" filter="url(#fggs9scq0pawh)" rx="58.8614" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="79" x="257.3614" y="133.6721">middleware</text><path d="M242.5,54.5 L242.5,79.6328 A0,0 0 0 0 242.5,79.6328 L293,79.6328 L297,114.4687 L301,79.6328 L351.5,79.6328 A0,0 0 0 0 351.5,79.6328 L351.5,64.5 L341.5,54.5 L242.5,54.5 A0,0 0 0 0 242.5,54.5 " fill="#FBFB77" filter="url(#fggs9scq0pawh)" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M341.5,54.5 L341.5,64.5 L351.5,64.5 L341.5,54.5 " fill="#FBFB77" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="88" x="248.5" y="71.5669">access logger</text><!--MD5=[db73ba272f014a2ff697242c3faf47b8]
+link client to service--><path d="M43.1374,129 C59.1484,129 82.7367,129 102.6853,129 " fill="none" id="client-service" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[384a6933b83e79e6a33e7491dba34934]
+link service to middleware--><path d="M178.3843,129 C196.2053,129 217.8729,129 237.7887,129 " fill="none" id="service-middleware" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[c80bb892bb884d4c4552c255f7aab877]
+link middleware to postcodes--><path d="M330.2329,116.8114 C361.5797,105.3146 408.263,88.1929 439.2755,76.8187 " fill="none" id="middleware-postcodes" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ac7727259e0bb1ae4058daf72ecd896b]
+link middleware to weather--><path d="M356.0777,129 C379.9065,129 406.8759,129 428.7497,129 " fill="none" id="middleware-weather" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[c4a8e4cbd4c5e7878ed6685ba9573a26]
+link middleware to address--><path d="M330.2329,141.1886 C362.6674,153.0843 411.5213,171.0021 442.4461,182.3441 " fill="none" id="middleware-address" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[54dca406a7483e86140394d2aaa54950]
+link postcodes to postcodes api--><path d="M526.6974,63.3605 C551.5786,62.6214 581.1649,61.7426 607.2353,60.9683 " fill="none" id="postcodes-postcodes api" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[8c0da79f38e8cf2156cb4efc1b122577]
+link weather to openweathermap api--><path d="M514.339,129 C535.4166,129 561.6206,129 586.6432,129 " fill="none" id="weather-openweathermap api" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[567f619680513e5f3d8eeb81404c09bd]
+link address to nominatim api--><path d="M513.8458,194.2578 C541.0328,195.0653 576.8968,196.1306 607.7452,197.0469 " fill="none" id="address-nominatim api" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[59c2bd0db685695902cd4bb24e5c2292]
+@startuml
+
+left to right direction
+
+actor client
+
+client - - (service)
+
+(service) - - (middleware)
+
+note top of (middleware)
+access logger
+end note
+
+rectangle controllers {
+
+    (postcodes)
+    (weather)
+    (address)
+}
+
+rectangle models {
+
+    (postcodes api)
+    (openweathermap api)
+    (nominatim api)
+}
+
+(middleware) - - (postcodes)
+(middleware) - - (weather)
+(middleware) - - (address)
+
+(postcodes) - - (postcodes api)
+(weather) - - (openweathermap api)
+(address) - - (nominatim api)
+
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 10:22:07 GMT 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.9.1+1-Ubuntu-0ubuntu1.18.04
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: GB
+--></g></svg>
